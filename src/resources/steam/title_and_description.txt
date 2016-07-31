@@ -7,4 +7,16 @@ Interface: Century Gothic
 DESCRIPTION
 -----------
 
-TODO
+[h1]Mod Description[/h1]
+This mod changes all interface fonts to "Century Gothic", the same font used in Stellaris.
+
+[h1]Ironman[/h1]
+This mod is Ironman compatible.
+
+[h1]Additional Mods[/h1]
+In addition to this mod you can subscribe to [url=http://steamcommunity.com/sharedfiles/filedetails/?id=734350648]Tooltip: Century Gothic Bold 18[url] to get larger font sizes in tooltips.
+
+
+[h1]Miscellaneous[/h1]
+If you are looking for a similar mod for Europa Universalis 4 I highly recommend the awesome [url=http://steamcommunity.com/sharedfiles/filedetails/?id=704256650]Stellaris UI Font[/url] by ross-g.
+
