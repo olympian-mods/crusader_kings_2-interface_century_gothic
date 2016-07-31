@@ -1,1 +1,1 @@
-# crusader_kings_2-interface_century_gothic
+# Crusader Kings 2: Interface Century Gothic
