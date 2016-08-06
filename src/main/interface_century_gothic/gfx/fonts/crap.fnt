@@ -74,7 +74,7 @@ char id=102  x=62    y=63    width=3     height=7     xoffset=-1    yoffset=4   
 char id=103  x=121   y=38    width=6     height=7     xoffset=0     yoffset=6     xadvance=7     page=0
 char id=104  x=96    y=54    width=5     height=7     xoffset=0     yoffset=4     xadvance=6     page=0
 char id=105  x=126   y=11    width=1     height=7     xoffset=0     yoffset=4     xadvance=2     page=0
-char id=106  x=40    y=21    width=2     height=9     xoffset=-1    yoffset=4     xadvance=2     page=0
+char id=106  x=40    y=21    width=2     height=9     xoffset=-1    yoffset=4     xadvance=3     page=0
 char id=107  x=54    y=55    width=5     height=7     xoffset=0     yoffset=4     xadvance=5     page=0
 char id=108  x=126   y=54    width=1     height=7     xoffset=0     yoffset=4     xadvance=2     page=0
 char id=109  x=11    y=74    width=9     height=5     xoffset=0     yoffset=6     xadvance=10    page=0
