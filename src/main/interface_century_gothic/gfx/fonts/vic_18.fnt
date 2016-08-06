@@ -1,5 +1,5 @@
 info face="Century Gothic" size=15 bold=0 italic=0 charset="ANSI" stretchH=100 smooth=1 aa=4 padding=0,0,0,0 spacing=1,1
-common lineHeight=15 base=13 scaleW=256 scaleH=256 pages=1
+common lineHeight=18 base=13 scaleW=256 scaleH=256 pages=1
 char id=32   x=254   y=46    width=1     height=1     xoffset=0     yoffset=15    xadvance=3     page=0
 char id=33   x=205   y=48    width=3     height=10    xoffset=0     yoffset=4     xadvance=3     page=0
 char id=34   x=82    y=69    width=5     height=3     xoffset=0     yoffset=4     xadvance=4     page=0
