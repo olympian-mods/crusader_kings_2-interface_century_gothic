@@ -23,3 +23,5 @@ In addition to this mod you can subscribe to the following mods:
 [h1]Miscellaneous[/h1]
 If you are looking for a similar mod for Europa Universalis 4 I highly recommend the awesome [url=http://steamcommunity.com/sharedfiles/filedetails/?id=704256650]Stellaris UI Font[/url] by ross-g.
 
+[h1]Thanks[/h1]
+Big thanks to Tjuh for extensive testing and ross-g for the initial inspiration for this mod.
