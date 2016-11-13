@@ -22,8 +22,10 @@ In addition to this mod you can subscribe to the following mods:
 [/list]
 
 [h1]Miscellaneous[/h1]
-- This mod is part of [url=http://steamcommunity.com/sharedfiles/filedetails/?id=785399155]Arumba's Modpack[/url], see video above.
-- If you are looking for a similar mod for Europa Universalis 4 I highly recommend the awesome [url=http://steamcommunity.com/sharedfiles/filedetails/?id=704256650]Stellaris UI Font[/url] by ross-g.
+[list]
+[*] This mod is part of [url=http://steamcommunity.com/sharedfiles/filedetails/?id=785399155]Arumba's Modpack[/url], see video above.
+[*] If you are looking for a similar mod for Europa Universalis 4 I highly recommend the awesome [url=http://steamcommunity.com/sharedfiles/filedetails/?id=704256650]Stellaris UI Font[/url] by ross-g.
+[/list]
 
 [h1]Thanks[/h1]
 Big thanks to Tjuh and rpg2000 for extensive testing and ross-g for the initial inspiration for this mod.
