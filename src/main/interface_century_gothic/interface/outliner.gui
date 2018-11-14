@@ -753,6 +753,17 @@ guiTypes = {
 			pdx_tooltip = "CHARACTER_TOOLTIP"
 			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
 		}
+		instantTextBoxType = {
+			name = "info_text"
+			position = { x = 18 y = 2 }
+			textureFile = ""
+			font = "ubuntu_16"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 240
+			maxHeight = 16
+
+			format = left
+		}
 	}
 	
 	### OUTLINER Court Entry

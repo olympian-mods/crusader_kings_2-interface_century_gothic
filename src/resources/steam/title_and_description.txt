@@ -28,6 +28,7 @@ In addition to this mod you can subscribe to the following mods:
 Release package and source code:
 [list]
 [*] [url=https://github.com/olympian-mods/crusader_kings_2-interface_century_gothic/releases/tag/1.2.7]v1.2.7 for CK II 2.8.3.3[/url]
+[*] [url=https://github.com/olympian-mods/crusader_kings_2-interface_century_gothic/releases/tag/1.2.8]v1.2.8 for CK II 3.0[/url]
 [/list]
 
 [h1]Miscellaneous[/h1]
