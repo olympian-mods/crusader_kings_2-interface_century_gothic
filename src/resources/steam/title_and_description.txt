@@ -24,12 +24,16 @@ In addition to this mod you can subscribe to the following mods:
 [*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=754012065]Century Gothic Map Font - Vanilla[/url] by Parasite03: changes the map font to Century Gothic
 [/list]
 
+[h1]HIP Compatibility[/h1]
+Instructions on how to install the compatibility patch for HIP ("Historical Immersion Project") can be found here: [url=https://github.com/olympian-mods/crusader_kings_2-interface_century_gothic_hip_compatibility]Link[/url]
+
 [h1]Manual Download[/h1]
 Release package and source code:
 [list]
 [*] [url=https://github.com/olympian-mods/crusader_kings_2-interface_century_gothic/releases/tag/1.2.7]v1.2.7 for CK II 2.8.3.3[/url]
 [*] [url=https://github.com/olympian-mods/crusader_kings_2-interface_century_gothic/releases/tag/1.2.8]v1.2.8 for CK II 3.0[/url]
 [*] [url=https://github.com/olympian-mods/crusader_kings_2-interface_century_gothic/releases/tag/1.2.9]v1.2.9 for CK II 3.1[/url]
+[*] [url=https://github.com/olympian-mods/crusader_kings_2-interface_century_gothic/releases/tag/1.2.10]v1.2.10 for CK II 3.2[/url]
 [/list]
 
 [h1]Miscellaneous[/h1]

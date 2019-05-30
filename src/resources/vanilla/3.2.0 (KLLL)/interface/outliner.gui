@@ -213,7 +213,7 @@ guiTypes = {
 			position = { x=0 y =0 }
 			quadTextureSprite ="GFX_outliner_standard"	
 		}
-		
+
 		guiButtonType = {
 			name = "outliner_default_shield"
 			position = { x = 0 y = -7 }
@@ -226,7 +226,7 @@ guiTypes = {
 				name = "name"
 				position = { x = 28 y = 2 }
 				textureFile = ""
-				font = "ubuntu_16"
+				font = "Arial12"
 				borderSize = {x = 0 y = 0}
 				text = "UI_MISSING_TEXT"	
 				maxWidth = 100
@@ -245,7 +245,7 @@ guiTypes = {
 			name = "money_text"
 			position = { x = 144 y = 2 }
 			textureFile = ""
-			font = "ubuntu_16"
+			font = "Arial12"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 40
@@ -263,7 +263,7 @@ guiTypes = {
 			name = "fort_text"
 			position = { x = 179 y = 2 }
 			textureFile = ""
-			font = "ubuntu_16"
+			font = "Arial12"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 40
@@ -281,7 +281,7 @@ guiTypes = {
 			name = "levy_text"
 			position = { x = 211 y = 2 }
 			textureFile = ""
-			font = "ubuntu_16"
+			font = "Arial12"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 40
@@ -326,7 +326,7 @@ guiTypes = {
 				name = "name"
 				position = { x = 18 y = 2 }
 				textureFile = ""
-				font = "ubuntu_16"
+				font = "Arial12"
 				borderSize = {x = 0 y = 0}
 				text = "UI_MISSING_TEXT"	
 				maxWidth = 140
@@ -345,7 +345,7 @@ guiTypes = {
 			name = "money_text"
 			position = { x = 173 y = 2 }
 			textureFile = ""
-			font = "ubuntu_16"
+			font = "Arial12"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 40
@@ -363,7 +363,7 @@ guiTypes = {
 			name = "fort_text"
 			position = { x = 211 y = 2 }
 			textureFile = ""
-			font = "ubuntu_16"
+			font = "Arial12"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 40
@@ -408,7 +408,7 @@ guiTypes = {
 				name = "info_text"
 				position = { x = 18 y = 2 }
 				textureFile = ""
-				font = "ubuntu_16"
+				font = "Arial12"
 				borderSize = {x = 0 y = 0}
 				text = ""	
 				maxWidth = 240
@@ -422,7 +422,7 @@ guiTypes = {
 				name = "entry_text"
 				position = { x = 18 y = 2 }
 				textureFile = ""
-				font = "ubuntu_16"
+				font = "Arial12"
 				borderSize = {x = 0 y = 0}
 				text = ""	
 				maxWidth = 240
@@ -456,7 +456,7 @@ guiTypes = {
 				name = "info_text"
 				position = { x = 18 y = 2 }
 				textureFile = ""
-				font = "ubuntu_16"
+				font = "Arial12"
 				borderSize = {x = 0 y = 0}
 				text = ""	
 				maxWidth = 240
@@ -470,7 +470,7 @@ guiTypes = {
 				name = "entry_text"
 				position = { x = 18 y = 2 }
 				textureFile = ""
-				font = "ubuntu_16"
+				font = "Arial12"
 				borderSize = {x = 0 y = 0}
 				text = ""	
 				maxWidth = 240
@@ -505,7 +505,7 @@ guiTypes = {
 			name = "entry_text"
 			position = { x = 18 y = 2 }
 			textureFile = ""
-			font = "ubuntu_16"
+			font = "Arial12"
 			borderSize = {x = 0 y = 0}
 			text = ""	
 			maxWidth = 240
@@ -519,7 +519,7 @@ guiTypes = {
 				name = "info_text"
 				position = { x = 18 y = 2 }
 				textureFile = ""
-				font = "ubuntu_16"
+				font = "Arial12"
 				borderSize = {x = 0 y = 0}
 				text = ""	
 				maxWidth = 240
@@ -560,7 +560,7 @@ guiTypes = {
 			name = "entry_text"
 			position = { x = 18 y = 2 }
 			textureFile = ""
-			font = "ubuntu_16"
+			font = "Arial12"
 			borderSize = {x = 0 y = 0}
 			text = ""	
 			maxWidth = 240
@@ -574,7 +574,7 @@ guiTypes = {
 				name = "info_text"
 				position = { x = 18 y = 2 }
 				textureFile = ""
-				font = "ubuntu_16"
+				font = "Arial12"
 				borderSize = {x = 0 y = 0}
 				text = ""	
 				maxWidth = 240
@@ -609,7 +609,7 @@ guiTypes = {
 			name = "entry_text"
 			position = { x = 18 y = 2 }
 			textureFile = ""
-			font = "ubuntu_16"
+			font = "Arial12"
 			borderSize = {x = 0 y = 0}
 			text = ""	
 			maxWidth = 240
@@ -623,7 +623,7 @@ guiTypes = {
 				name = "info_text"
 				position = { x = 18 y = 2 }
 				textureFile = ""
-				font = "ubuntu_16"
+				font = "Arial12"
 				borderSize = {x = 0 y = 0}
 				text = "UI_MISSING_TEXT"	
 				maxWidth = 240
@@ -656,7 +656,7 @@ guiTypes = {
 			name = "entry_text"
 			position = { x = 18 y = 2 }
 			textureFile = ""
-			font = "ubuntu_16"
+			font = "Arial12"
 			borderSize = {x = 0 y = 0}
 			text = ""	
 			maxWidth = 240
@@ -670,7 +670,7 @@ guiTypes = {
 				name = "info_text"
 				position = { x = 18 y = 2 }
 				textureFile = ""
-				font = "ubuntu_16"
+				font = "Arial12"
 				borderSize = {x = 0 y = 0}
 				text = "UI_MISSING_TEXT"	
 				maxWidth = 240
@@ -705,7 +705,7 @@ guiTypes = {
 			name = "entry_text"
 			position = { x = 18 y = 2 }
 			textureFile = ""
-			font = "ubuntu_16"
+			font = "Arial12"
 			borderSize = {x = 0 y = 0}
 			text = ""	
 			maxWidth = 240
@@ -750,7 +750,7 @@ guiTypes = {
 			name = "entry_text"
 			position = { x = 18 y = 2 }
 			textureFile = ""
-			font = "ubuntu_16"
+			font = "Arial12"
 			borderSize = {x = 0 y = 0}
 			text = ""	
 			maxWidth = 240
@@ -765,7 +765,7 @@ guiTypes = {
 			name = "info_text"
 			position = { x = 18 y = 2 }
 			textureFile = ""
-			font = "ubuntu_16"
+			font = "Arial12"
 			borderSize = {x = 0 y = 0}
 			maxWidth = 240
 			maxHeight = 16
@@ -797,7 +797,7 @@ guiTypes = {
 			name = "entry_text"
 			position = { x = 18 y = 2 }
 			textureFile = ""
-			font = "ubuntu_16"
+			font = "Arial12"
 			borderSize = {x = 0 y = 0}
 			text = ""	
 			maxWidth = 240
@@ -811,7 +811,7 @@ guiTypes = {
 				name = "info_text"
 				position = { x = 18 y = 2 }
 				textureFile = ""
-				font = "ubuntu_16"
+				font = "Arial12"
 				borderSize = {x = 0 y = 0}
 				text = "UI_MISSING_TEXT"	
 				maxWidth = 240
@@ -843,7 +843,7 @@ guiTypes = {
 				name = "name"
 				position = { x = 18 y = 2 }
 				textureFile = ""
-				font = "ubuntu_16"
+				font = "Arial12"
 				borderSize = {x = 0 y = 0}
 				text = "UI_MISSING_TEXT"	
 				maxWidth = 140
@@ -869,7 +869,7 @@ guiTypes = {
 			name = "money_text"
 			position = { x = 166 y = 2 }
 			textureFile = ""
-			font = "ubuntu_16"
+			font = "Arial12"
 			borderSize = {x = 0 y = 0}
 			text = "UI_MISSING_TEXT"	
 			maxWidth = 40
